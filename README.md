@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DualScreenKTVPlayStation
 
 DualScreenKTVPlayStation is a multimedia application designed to manage video and audio playback across multiple monitors. This application leverages DirectShow to handle various media types and provides synchronized playback functionality for dual-screen karaoke systems.
@@ -71,3 +72,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 - Special thanks to the contributors and the open-source community for their support and tools.
 
+=======
+# KTV_Superstar-vmr9
+KTV_Superstar-vmr9 - A karaoke system utilizing DirectShow's VideoMixingRenderer9 (VMR9) for advanced video rendering and dual-screen support.
+>>>>>>> d8212de93d6e60715d2399d3580bc6d2c9917515
